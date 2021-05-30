@@ -6,7 +6,7 @@ The initial project was to perform exploratory analysis on ride sharing data fro
 <br />
 
 ## Scope
-The scope of the project is the new assignment where Pyber requires a summary of ride sharing data by city type. The goal is to create a multiple line chart that will show total weekly fares by city.
+The scope of the project is a new assignment where Pyber requires a summary of ride sharing data by city type. The goal is to create a multiple line chart that will show total weekly fares by city.
 <br />
 
 ## Resources
