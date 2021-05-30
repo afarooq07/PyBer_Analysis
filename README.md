@@ -30,7 +30,7 @@ From the summary stats below, we can infer the following:
 <br />
 
 - Total Fare by city by week  - looking at multi line chart, we can deduce that urban cities generate the highest revenue with ease of access and affordibility:
-	- Urban cities generate over $2000 most weeks, with a handful of exceptions.
+	- Urban cities generate over $2000 most weeks with a few exceptions.
 	- Suburban cities average city fare stays close to 1000 for the most part, approx. 50 % less than urban
     - Rural cities weekly fare stays under 500 with one peak hitting 500 in the beginning of April, at least 75% less than urban cities
 <br />
